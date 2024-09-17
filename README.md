@@ -32,3 +32,45 @@ You can navigate through the course using the links below.
 * [Code](lesson_2/exercise_3/main.py)
 * [Solution](lesson_2/exercise_3/solution.py)
 
+## Exercise 4
+* [Readme](lesson_2/exercise_4/README.md)
+* [Code](lesson_2/exercise_4/main.py)
+* [Solution](lesson_2/exercise_4/solution.py)
+
+## Exercise 5
+* [Readme](lesson_2/exercise_5/README.md)
+* [Code](lesson_2/exercise_5/main.py)
+* [Solution](lesson_2/exercise_5/solution.py)
+
+
+## Homework Exercise 1
+* [Readme](lesson_2/homework_exercise_1/README.md)
+* [Code](lesson_2/homework_exercise_1/main.py)
+* [Solution](lesson_2/homework_exercise_1/solution.py)
+
+## Homework Exercise 2
+* [Readme](lesson_2/homework_exercise_2/README.md)
+* [Code](lesson_2/homework_exercise_2/main.py)
+* [Solution](lesson_2/homework_exercise_2/solution.py)
+
+## Homework Exercise 3
+* [Readme](lesson_2/homework_exercise_3/README.md)
+* [Code](lesson_2/homework_exercise_3/main.py)
+* [Solution](lesson_2/homework_exercise_3/solution.py)
+
+## Homework Exercise 4
+* [Readme](lesson_2/homework_exercise_4/README.md)
+* [Code](lesson_2/homework_exercise_4/main.py)
+* [Solution](lesson_2/homework_exercise_4/solution.py)
+
+## Homework Exercise 5
+* [Readme](lesson_2/homework_exercise_5/README.md)
+* [Code](lesson_2/homework_exercise_5/main.py)
+* [Solution](lesson_2/homework_exercise_5/solution.py)
+
+## Homework Exercise 6
+* [Readme](lesson_2/homework_exercise_6/README.md)
+* [Code](lesson_2/homework_exercise_6/main.py)
+* [Solution](lesson_2/homework_exercise_6/solution.py)
+
+
