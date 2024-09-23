@@ -4,7 +4,7 @@ class RandomNumbers:
     pass
 
 
-my_numbers = RandomNumbers(10, 1, 100)
+my_numbers = RandomNumbers(10, 0, 15)
 print(my_numbers.generate_numbers())
 
 # Expected sample output:
