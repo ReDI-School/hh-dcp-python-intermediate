@@ -8,4 +8,4 @@ my_numbers = RandomNumbers(10, 0, 15)
 print(my_numbers.generate_numbers())
 
 # Expected sample output:
-# [10, 23, 45, 67, 89, 12, 34, 56, 78, 90]
+# [0, 1, 2, 3, 4, 5, 6, 7, 15, 15]
