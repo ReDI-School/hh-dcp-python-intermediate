@@ -6,12 +6,12 @@ Each class should have appropriate attributes and methods to represent its prope
 
 ### Student Class
 
-- Should contain attributes such as student name, roll number, and marks (a list of exam scores).
+- It Should contain attributes such as student name, roll number, and marks (a list of exam scores).
 - Implement methods to calculate the average marks of the student and display their details.
 
 ### Exam Class
 
-- Should represent an exam with attributes like exam name and marks obtained by the students.
+- It Should represent an exam with attributes like exam name and marks obtained by the students.
 - Include methods for adding marks for students and computing average marks for the exam.
 
 ## User Interaction
