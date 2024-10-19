@@ -73,4 +73,30 @@ You can navigate through the course using the links below.
 * [Code](lesson_2/homework_exercise_6/main.py)
 * [Solution](lesson_2/homework_exercise_6/solution.py)
 
+# Lesson 5: Object Oriented Programming
+## Exercise 1
+* [Readme](lesson_5/exercise_1/README.md)
+* [Code](lesson_5/exercise_1/main.py)
+* [Solution](lesson_5/exercise_1/solution.py)
+
+## Exercise 2
+* [Readme](lesson_5/exercise_2/README.md)
+* [Code](lesson_5/exercise_2/main.py)
+* [Solution](lesson_5/exercise_2/solution.py)
+
+## Exercise 3
+* [Readme](lesson_5/exercise_3/README.md)
+* [Code](lesson_5/exercise_3/main.py)
+* [Solution](lesson_5/exercise_3/solution.py)
+
+## Homework Exercise 1
+* [Readme](lesson_5/homework_1/README.md)
+* [Solution](lesson_5/homework_1/solution.py)
+
+# Lesson 11: Pytest
+## Exercise 1
+* [Readme](lesson_11/exercise_1/README.md)
+* [Code](lesson_11/exercise_1/main.py)
+* [Solution](lesson_11/exercise_1/solution.py)
+
 
