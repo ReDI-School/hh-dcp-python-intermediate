@@ -12,6 +12,8 @@ You can use the `time.sleep()` function to pause the script for a few seconds be
 You can test your file watcher by creating a new file in the directory that you are watching. 
 You may use the `touch` command to create a new file in the terminal.
 
+An implementation is provided in the `main.py` file.
+
 On Linux or MacOS
 ```bash
 touch /path/to/directory/new_file.txt
