@@ -45,8 +45,9 @@ And you can use side_effect to have different results in the mock:
 ```python
 from unittest.mock import patch
 
+
 @patch('os.listdir')
-def test_file_wacher_2(listdir_mock):
+def test_file_watcher_2(listdir_mock):
     listdir_mock.side_effect = [['file1.txt'], ['file1.txt', 'file2.txt']]
     # Your test code here
     pass
